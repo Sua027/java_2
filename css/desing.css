@@ -1,0 +1,38 @@
+.saludo{
+    color: black;
+    text-align: center;
+    margin-top: 150px;
+    font-size: 50px;
+}
+.nuevaClase{
+    color:blue;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 70px;
+}
+/*--------*/
+.estilo_1{
+    width: 300px;
+    height: 400;
+    background-color: pink;
+    margin: auto;
+}
+.estilo_2{
+    width: 300px;
+    height: 300;
+    background-color: pink;
+    margin: auto;
+    transition: 0.5s;
+}
+/*-------*/
+.ds_btn{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    margin: auto;
+    margin-top: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+}
